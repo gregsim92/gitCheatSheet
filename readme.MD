@@ -22,7 +22,7 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git log -p [filename]` __Fill Me Out__
 
 #### Stage files to commit
-`$ git add <filename>` - __Fill Me Out__
+`$ git add <filename>` - adding your changes to a staging area
 
 `$ git add -A` - __Fill Me Out__
 
