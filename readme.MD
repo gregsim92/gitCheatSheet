@@ -15,7 +15,7 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git diff` - __Fill Me Out__
 
 #### Repo History
-`$ git log` - __Fill Me Out__
+`$ git log` - Shows the commit logs and any attached messages
 
 `$ git log --oneline --decorate --color --graph --all` - __Fill Me Out__
 
@@ -38,4 +38,4 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 
 #### Merging
 
-`$ git merge <branch name>` - __Fill Me Out__
+`$ git merge <branch name>` - Join two or more development histories together
